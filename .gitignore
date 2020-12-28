@@ -2,3 +2,4 @@ src/main
 target
 .idea
 *.iml
+.DS_Store
